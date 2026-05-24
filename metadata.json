@@ -1,0 +1,6 @@
+{
+  "name": "Gerai Ku",
+  "description": "Aplikasi pembantu UMKM penjual buah dalam mengelola stok, penjualan, modal, keuntungan, buah rusak, dan diskon kadaluarsa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
